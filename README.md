@@ -4,10 +4,11 @@
 
 NOTE: This should be run on Windows.
 Python 3 must be installed on the machine to run this program.
-This can be checked by opening Command Prompt and typing
+This can be checked by opening Command Prompt (open by clicking the Windows-key to bring up search and type 'cmd'). Then type:
 ```
 python --version
 ```
+and click enter.
 
 If Python is not already installed it can be installed from https://www.python.org/downloads/.
 
@@ -19,11 +20,13 @@ Additionally you will need some Python libraries that are not preinstalled.
 - pathlib
 - datetime
 
-These can be installed by pasting the following in the Command Prompt. If required open with Admin.
+These can be installed by pasting the following in the Command Prompt (opened through search by clicking Windows-key and typing 'cmd'.
 
 ```
 pip install requests pandas tk pathlib datetime
 ```
+
+If there are any errors try opening Command Prompt by searching for 'cmd' and click open with admin.
 
 ### Downloading the file
 
