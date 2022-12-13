@@ -47,6 +47,6 @@ Some systems require you to write the following instead:
 python3
 ```
 
-Then you must copy-paste the program code from here: https://raw.githubusercontent.com/arthurbrunborg/InkassoregisteretDemand/main/main.py
+You must then copy-paste the program code from here: https://raw.githubusercontent.com/arthurbrunborg/InkassoregisteretDemand/main/main.py
 
 Click enter when the whole program has been entered.
