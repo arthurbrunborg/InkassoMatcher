@@ -40,8 +40,14 @@ This can be done in two ways:
 
 2. Alternatively you can paste the program code in your CMD by writing:
 ```
+python
+```
+Some systems require you to write 
+```
 python3
 ```
-followed by copy-pasting the program code from here: https://raw.githubusercontent.com/arthurbrunborg/InkassoregisteretDemand/main/main.py
+instead.
+
+Then you must copy-paste the program code from here: https://raw.githubusercontent.com/arthurbrunborg/InkassoregisteretDemand/main/main.py
 
 Click enter when the whole program has been entered.
