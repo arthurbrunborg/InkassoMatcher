@@ -42,11 +42,10 @@ This can be done in two ways:
 ```
 python
 ```
-Some systems require you to write 
+Some systems require you to write the following instead:
 ```
 python3
 ```
-instead.
 
 Then you must copy-paste the program code from here: https://raw.githubusercontent.com/arthurbrunborg/InkassoregisteretDemand/main/main.py
 
