@@ -13,14 +13,14 @@ and click enter.
 If Python is installed it should return the Python version installed like this: 'Python 3.10.6'. Otherwise you can install Python from https://www.python.org/downloads/.
 
 ### Python Libraries Required
-Additionally you will need some Python libraries that are not preinstalled.
+Additionally you will need these Python libraries which are not installed by default:
 - requests
 - pandas
 - tkinter
 - pathlib
 - datetime
 
-These can be installed by pasting the following in the Command Prompt (opened through search by clicking Windows-key and typing 'cmd'.
+They can be installed by writing the following in the Command Prompt (opened through search by clicking Windows-key and typing 'cmd'.
 
 ```
 pip install requests pandas tk pathlib datetime
@@ -42,6 +42,6 @@ This can be done in two ways:
 ```
 python3
 ```
-followed by pasting the program code from here: https://raw.githubusercontent.com/arthurbrunborg/InkassoregisteretDemand/main/main.py
+followed by copy-pasting the program code from here: https://raw.githubusercontent.com/arthurbrunborg/InkassoregisteretDemand/main/main.py
 
-Click enter when it has pasted the whole program.
+Click enter when the whole program has been entered.
