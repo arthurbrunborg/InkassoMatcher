@@ -30,17 +30,15 @@ If there are any errors try opening Command Prompt by searching for 'cmd' and cl
 
 ### Downloading the file
 
-At https://github.com/arthurbrunborg/InkassoregisteretDemand there should be a large green button labelled "Code". Click this and 'Download ZIP'. Download to Downloads folder on the machine.
+At the top of this page there should be a large green button labelled "Code". Click this and 'Download ZIP'. Download to Downloads folder on the machine.
 
 ### Compiling the file
 
 This can be done in two ways:
 
-1.
-The main.py file needs to be run locally on your computer. Locate the downloaded ZIP file and open it. Open the folder and locate the main.py file and open it. This should run the program
+1. The main.py file needs to be run locally on your computer. Locate the downloaded ZIP file in your Downloads folder and open it. Open the folder inside, locate the main.py file and open it. After a few seconds you should see the program on your screen.
 
-2.
-Alternatively you can paste the program code in your CMD by writing:
+2. Alternatively you can paste the program code in your CMD by writing:
 ```
 python3
 ```
