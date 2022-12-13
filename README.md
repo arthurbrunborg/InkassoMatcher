@@ -4,13 +4,13 @@
 
 NOTE: This should be run on Windows.
 Python 3 must be installed on the machine to run this program.
-This can be checked by opening Command Prompt (open by clicking the Windows-key to bring up search and type 'cmd'). Then type:
+This can be checked by opening Command Prompt (open by clicking the Windows-key to bring up search and type 'cmd'). Once opened type:
 ```
 python --version
 ```
-and click enter.
+and click enter. 
 
-If Python is not already installed it can be installed from https://www.python.org/downloads/.
+If Python is installed it should return the Python version installed like this: 'Python 3.10.6'. Otherwise you can install Python from https://www.python.org/downloads/.
 
 ### Python Libraries Required
 Additionally you will need some Python libraries that are not preinstalled.
