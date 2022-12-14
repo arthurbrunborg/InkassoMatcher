@@ -20,13 +20,13 @@ Additionally you will need these Python libraries which are not installed by def
 - pathlib
 - datetime
 
-They can be installed by writing the following in the Command Prompt (opened through search by clicking Windows-key and typing 'cmd'.
+They can be installed by writing the following in the Command Prompt (opened through search by clicking Windows-key and typing 'cmd').
 
 ```
 pip install requests pandas tk pathlib datetime
 ```
 
-If there are any errors try opening Command Prompt by searching for 'cmd' and click open with admin.
+If there are any errors try opening Command Prompt by searching (Windows-key then search for 'cmd') and click open with admin).
 
 ### Downloading the file
 
@@ -38,7 +38,7 @@ This can be done in two ways:
 
 1. The main.py file needs to be run locally on your computer. Locate the downloaded ZIP file in your Downloads folder and open it. Open the folder inside, locate the main.py file and open it. After a few seconds you should see the program on your screen.
 
-2. Alternatively you can paste the program code in your CMD by writing:
+2. Alternatively you can paste the program code in your Command Prompt by writing:
 ```
 python
 ```
